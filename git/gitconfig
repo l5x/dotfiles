@@ -26,11 +26,6 @@
         file-style = bold yellow ul
         file-decoration-style = none
 
-[user]
-        name = Mark Martirosian
-        email = hello@markmartirosian.com
-        signingkey = 0x8B6DD9F259DEF16A
-
 [init]
         templateDir = ~/dotfiles/git/template/
 
